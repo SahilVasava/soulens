@@ -1,0 +1,2 @@
+world-id-contracts/=lib/world-id-contracts/src/
+lens-protocol/=lib/lens-protocol
